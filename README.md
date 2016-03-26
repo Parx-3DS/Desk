@@ -3,9 +3,9 @@
 
 Voting bodies as follows  
 #Graphics Engines Seat will be filled by that team leader  
-#Chairs are avail via review for any other computer languages?
+# All computer language, (Pascal, C, C++, lua) Chairs have 2 votes & in lue one other Delegate members! & are also avail via most rooted or falls into is it portibal to Three-DS::Desk ? 
 
-any chairs & or Seats have one Vote on any givin issuses that need pertain 
-Desk, applications &or in corse of Game development
+Graphics Engines Seats have one Vote on any givin issuses of 
+Desk, it's applications &or in corse of for Game development submition!
 
 

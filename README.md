@@ -10,10 +10,10 @@ Desk, or it's applications &or in corse of for Game development submittion!
 
 before R&D testbed true stories 
 
-Bash: but I'm only Lady, Zurich's older sister...
-Comander : It's all the ship, or demache le planck ! 
-Bash: will wii all get there?
-Comander : U will one way or an other, might as well enjoy?  
-Bash: ok!
+Bash: but I'm only Lady, Zurich's older sister...   
+Comander : It's all the ship, or demache le planck !    
+Bash: will wii all get there?   
+Comander : U will one way or an other, might as well enjoy?    
+Bash: ok! ... again, again ?  
 
 & that being sed, turtle?

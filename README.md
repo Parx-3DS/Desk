@@ -8,7 +8,7 @@ Most Computer languages such as "Pascal, Perl, Python, C, C++, lua, basic" those
 Graphics member only provided with one Vote on any givin or related isusses of the Three-DS, Computer 
 Desk, or it's applications &or in corse of for Game development submittion!
 
-before R&D testbed true stories 
+before R&D testbed true stories --> https://github.com/Parx-3DS/Parx-GDI/blob/master/include/tycob.h
 
 Bash: but I'm only Lady, Zurich's older sister...   
 Comander : It's all the ship, or demache le planck !    

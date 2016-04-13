@@ -1,7 +1,9 @@
-# local on Desk
-any groups & or persons looking too pertisipate are welcome 
+any groups & or persons looking too nontendo pertisipate are welcome 
 -> https://www.3dbrew.org/wiki/Homebrew_Libraries_and_Tools
-
+  
+# local on our Three-DS::Desk
+Perspective finacial investors, Please review zip files for your selfs!   
+  
 #Voting Bodies as follows  
 Graphics Engines Seat will be filled by thire team leader &or owner corresponding member!    
 Most Computer languages such as "Pascal, Perl, Python, C, C++, lua, basic" those Chairs have 2 votes & in lue of one other Delegate member! & are also avail via rooted or if falls into is it portibal and lands on a Three-DS::Desk ? 

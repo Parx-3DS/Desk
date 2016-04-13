@@ -1,8 +1,8 @@
-any groups & or persons looking too nontendo pertisipate are welcome 
--> https://www.3dbrew.org/wiki/Homebrew_Libraries_and_Tools
+any groups & or persons looking too nontendo pertisipate are welcome   
+--> https://www.3dbrew.org/wiki/Homebrew_Libraries_and_Tools  
+Perspective finacial investors, Please review listed zip files for your selfs!   
   
 # local on our Three-DS::Desk
-Perspective finacial investors, Please review zip files for your selfs!   
   
 #Voting Bodies as follows  
 Graphics Engines Seat will be filled by thire team leader &or owner corresponding member!    

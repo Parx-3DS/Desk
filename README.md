@@ -1,6 +1,5 @@
-any groups & or persons looking too nontendo pertisipate are welcome   
---> https://www.3dbrew.org/wiki/Homebrew_Libraries_and_Tools  
-Perspective finacial investors, Please review listed zip files for your selfs!   
+any groups & or persons looking too nontendo pertisipate are welcome -> https://www.3dbrew.org/  
+Perspective finacial investors, Please review above listed zip files for your selfs!   
   
 # local on our Three-DS::Desk
   

@@ -1,5 +1,5 @@
 any groups & or persons looking too nontendo pertisipate are welcome -> https://www.3dbrew.org/  
-Perspective finacial investors, Please review above listed zip files for your selfs!   
+Perspective finacial investors, Please review enclosed zip files for your selfs!   
   
 # local on our Three-DS::Desk
   

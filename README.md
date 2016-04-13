@@ -1,5 +1,6 @@
 # local on Desk
 any groups & or persons looking too pertisipate are welcome 
+-> https://www.3dbrew.org/wiki/Homebrew_Libraries_and_Tools
 
 #Voting Bodies as follows  
 Graphics Engines Seat will be filled by thire team leader &or owner corresponding member!    
@@ -19,4 +20,4 @@ Bash: will wii all get there?
 Comander : U will one way or an other, might as well enjoy?    
 Bash: ok! ... again, again ?  
 
-& (that being sed, turtle?)[https://www.3dbrew.org/wiki/Homebrew_Libraries_and_Tools]
+& that being sed, turtle?

@@ -1,4 +1,4 @@
-any groups & or persons looking too nontendo pertisipate are welcome -> https://www.3dbrew.org/  
+any groups & or persons looking too nintendo pertisipate are welcome -> https://www.3dbrew.org/  
 Perspective finacial investors, Please review enclosed zip files for your selfs!   
   
 # local on our Three-DS::Desk
